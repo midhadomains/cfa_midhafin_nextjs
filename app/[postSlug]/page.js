@@ -1,3 +1,4 @@
+
 import { getPostSlugs, getSinglePost } from "../../lib/posts";
 import { getComments } from "../../lib/comments";
 import { Inter } from "next/font/google";
@@ -20,15 +21,12 @@ import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import RightBanners from "../../components/blog/RightBanners";
 import Head from "next/head";
 import LatexScriptLoader from "@/components/blog/LatexScriptLoader";
-const Accordion = dynamic(() => import("../../components/Common/Accordian"), {
-  ssr: false,
-});
-const TableOfContents = dynamic(() => import("../../components/blog/TableOfContents"), {
-  ssr: false,
-});
-const ShareButton = dynamic(() => import("../../components/blog/ShareButton"), {
-  ssr: false,
-});
+import Accordion from '../../components/Common/AccordionWrapper';
+
+import TableOfContents from '../../components/blog/TableOfContentsWrapper';
+
+import ShareButton from '../../components/blog/ShareButtonWrapper';
+
 
 const authorDetails = {
   "Micky Midha": {
