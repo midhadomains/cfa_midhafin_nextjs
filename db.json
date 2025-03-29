@@ -1,0 +1,100 @@
+{
+    "modules": [
+        {
+            "id": 1,
+            "title": "Foundations of Risk Management (FRM)",
+            "image": "/group 315.png",
+            "description": "A proprietary book for FRM candidates has been created to cover these broad knowledge points. While detailed learning objectives associated with these readings are presented in the 2025 FRM Learning Objectives document, a summary of how to relate these readings to the knowledge points follows.",
+            "chapters": [
+                {
+                    "tittle": "The Building Blocks of Risk Management",
+                    "description": "Identifying, assessing, and prioritizing risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities."
+                },
+                {
+                    "title": "How Do Firms Manage Financial Risk?",
+                    "description": "How risks can arise in an organization, and how firms manage financial risks."
+                },
+                {
+                    "title": "The Governance of Risk Management",
+                    "description": "Describes the role of corporate governance in risk management, including the role of the board of directors and other areas of an organization. The concept of risk appetite and how it is translated into a risk appetite framework and communicated throughout an organization is presented as well in this chapter."
+                },
+                {
+                    "title": "Credit Risk Transfer Mechanisms",
+                    "description": "Presents an overview of credit risk transfer mechanisms, including credit derivatives and securitization, and discusses issues with the securitization of subprime mortgages."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Quantitative Analysis (QTA)",
+            "image": "/group 315.png",
+            "description": "A proprietary book for FRM candidates has been created to cover these broad knowledge points. While detailed learning objectives associated with these readings are presented in the 2025 FRM Learning Objectives document, a summary of how to relate these readings to the knowledge points follows.",
+            "chapters": [
+                {
+                    "tittle": "The Building Blocks of Risk Management",
+                    "description": "Identifying, assessing, and prioritizing risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities."
+                },
+                {
+                    "title": "How Do Firms Manage Financial Risk?",
+                    "description": "How risks can arise in an organization, and how firms manage financial risks."
+                },
+                {
+                    "title": "The Governance of Risk Management",
+                    "description": "Describes the role of corporate governance in risk management, including the role of the board of directors and other areas of an organization. The concept of risk appetite and how it is translated into a risk appetite framework and communicated throughout an organization is presented as well in this chapter."
+                },
+                {
+                    "title": "Credit Risk Transfer Mechanisms",
+                    "description": "Presents an overview of credit risk transfer mechanisms, including credit derivatives and securitization, and discusses issues with the securitization of subprime mortgages."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Financial Market and Products (FMP)",
+            "image": "/group 315.png",
+            "description": "A proprietary book for FRM candidates has been created to cover these broad knowledge points. While detailed learning objectives associated with these readings are presented in the 2025 FRM Learning Objectives document, a summary of how to relate these readings to the knowledge points follows.",
+            "chapters": [
+                {
+                    "tittle": "The Building Blocks of Risk Management",
+                    "description": "Identifying, assessing, and prioritizing risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities."
+                },
+                {
+                    "title": "How Do Firms Manage Financial Risk?",
+                    "description": "How risks can arise in an organization, and how firms manage financial risks."
+                },
+                {
+                    "title": "The Governance of Risk Management",
+                    "description": "Describes the role of corporate governance in risk management, including the role of the board of directors and other areas of an organization. The concept of risk appetite and how it is translated into a risk appetite framework and communicated throughout an organization is presented as well in this chapter."
+                },
+                {
+                    "title": "Credit Risk Transfer Mechanisms",
+                    "description": "Presents an overview of credit risk transfer mechanisms, including credit derivatives and securitization, and discusses issues with the securitization of subprime mortgages."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Valuation and Risk Management (VRM)",
+            "image": "/group 315.png",
+            "description": "A proprietary book for FRM candidates has been created to cover these broad knowledge points. While detailed learning objectives associated with these readings are presented in the 2025 FRM Learning Objectives document, a summary of how to relate these readings to the knowledge points follows.",
+            "chapters": [
+                {
+                    "tittle": "The Building Blocks of Risk Management",
+                    "description": "Identifying, assessing, and prioritizing risks followed by coordinated efforts to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities."
+                },
+                {
+                    "title": "How Do Firms Manage Financial Risk?",
+                    "description": "How risks can arise in an organization, and how firms manage financial risks."
+                },
+                {
+                    "title": "The Governance of Risk Management",
+                    "description": "Describes the role of corporate governance in risk management, including the role of the board of directors and other areas of an organization. The concept of risk appetite and how it is translated into a risk appetite framework and communicated throughout an organization is presented as well in this chapter."
+                },
+                {
+                    "title": "Credit Risk Transfer Mechanisms",
+                    "description": "Presents an overview of credit risk transfer mechanisms, including credit derivatives and securitization, and discusses issues with the securitization of subprime mortgages."
+                }
+            ]
+        }
+    ]
+}
