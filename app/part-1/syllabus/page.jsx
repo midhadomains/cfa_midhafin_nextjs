@@ -3,11 +3,9 @@ import React from "react";
 import Link from "next/link";
 
 export const metadata = {
-  title: "FRM Part 1 Syllabus - MidhaFin",
-  description:
-    "Explore the comprehensive FRM Part 1 syllabus with Midhafin. Detailed topics and study resources to help you prepare effectively for the FRM certification exam.",
-  keywords:
-    "FRM exam syllabus,FRM Part 1 syllabus, FRM exam topics, Midhafin syllabus guide, FRM study materials, FRM certification syllabus",
+  title: "CFA Level 1 Syllabus - Midhafin",
+  description: "Explore the comprehensive CFA Level 1 syllabus with Midhafin. Detailed topics and study resources to help you prepare effectively for the CFA exam.",
+  keywords: "CFA exam syllabus, CFA Level 1 syllabus, CFA exam topics, Midhafin syllabus guide, CFA study materials, CFA certification syllabus",
 };
 
 function Syllabus() {
