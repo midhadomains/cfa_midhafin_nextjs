@@ -23,7 +23,7 @@ export const metadata = {
       type: "website",
       site_name: "Midhafin",
       locale: "en_US",
-      url: "https://frm.midhafin.com/",
+      url: "https://cfa.midhafin.com/",
       images: [
         {
           url: "https://midha-images.s3.ap-south-1.amazonaws.com/frm.Midhafin/home_page/FRM+open+graph.png",
