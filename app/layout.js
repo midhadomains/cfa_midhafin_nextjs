@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="MidhaFin:- Best prep provider" />
         <meta property="og:description" content="Boost Your Career In Finance" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://frm.midhafin.com/" />
+        <meta property="og:url" content="https://cfa.midhafin.com/" />
         <meta property="og:image" content="https://midha-images.s3.ap-south-1.amazonaws.com/Midhafin/Homepage/open-graph-snippet_600*336.png.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="MidhaFin:- Best prep provider" />
