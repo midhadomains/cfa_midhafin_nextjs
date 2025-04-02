@@ -64,7 +64,7 @@ const nextConfig = {
             },
             {
                 protocol: 'https',
-                hostname: 'cmsfrm.midhafin.com',
+                hostname: 'cmscfa.midhafin.com',
                 port: '',
                 pathname: '/**',
             }
