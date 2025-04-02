@@ -180,10 +180,10 @@ export default function page() {
       <div className="bg-[#F0EDE68A] py-5 md:py-9 my-[8%] ">
         <h2 className="text-[24px] sm:text-[30px] md:text-[36px] font-bold text-center mb-8"><span className="text-[#BE4E1E]">FRM </span> prep resources</h2>
         <ul className=" flex flex-wrap justify-around items-center gap-3  max-w-[1400px] px-1 md:px-[50px] mx-auto text-white text-[14px] md:text-[16px]  lg:text-[19px] xl:text-[24px] font-semibold">
-          <Link href="/part-2/study-plan" className="w-[24%] bg-[#6A1C1A] hover:bg-[#BE4E1E] transition-colors duration-150 text-center rounded-full min-w-[160px] px-2 py-2 sm:py-3 lg:py-5">
+          <Link href="/part-3/study-plan" className="w-[24%] bg-[#6A1C1A] hover:bg-[#BE4E1E] transition-colors duration-150 text-center rounded-full min-w-[160px] px-2 py-2 sm:py-3 lg:py-5">
             <li>Study Plan</li>{" "}
           </Link>
-          <Link href="/part-2/syllabus" className="w-[24%] bg-[#6A1C1A] hover:bg-[#BE4E1E] transition-colors duration-150 text-center rounded-full min-w-[160px] px-2 py-2 sm:py-3 lg:py-5">
+          <Link href="/part-3/syllabus" className="w-[24%] bg-[#6A1C1A] hover:bg-[#BE4E1E] transition-colors duration-150 text-center rounded-full min-w-[160px] px-2 py-2 sm:py-3 lg:py-5">
             <li>Syllabus</li>
           </Link>
           <Link href="/dates-and-deadlines"  className="w-[24%] bg-[#6A1C1A] hover:bg-[#BE4E1E] transition-colors duration-150 text-center rounded-full min-w-[160px] px-2 py-2 sm:py-3 lg:py-5">
