@@ -297,7 +297,7 @@ export default function page() {
           <div className="flex justify-between  mt-[80px]">
             <div className="max-w-[1000px] pr-5">
               <h2 className="text-[14px] sm:text-[20px] lg:text-[40px] font-bold ">Ethical and Professional Standards</h2>
-              <p className="text-[11px] sm:text-[14px] lg:text-[20px] lg:leading-[40px]">This module is designed to impart fundamental knowledge of the CFA Institute's Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.</p>
+              <p className="text-[11px] sm:text-[14px] lg:text-[20px] lg:leading-[40px]">This module is designed to impart fundamental knowledge of the CFA Institute&apos;s Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.</p>
             </div>
             <Image src='/part-2/mr.svg' width={250} height={250} alt="frm" className="flex-shrink-0" />
           </div>
@@ -318,7 +318,7 @@ export default function page() {
           <div className="flex justify-between  mt-[80px]">
             <div className="max-w-[1000px] pr-5">
               <h2 className="md:text-[30px] lg:text-[35px] font-bold ">Financial Reporting and Analysis</h2>
-              <p className="text-[11px] md:text-[14px] lg:text-[20px] lg:leading-[40px]">This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company's financial health and investment potential.</p>
+              <p className="text-[11px] md:text-[14px] lg:text-[20px] lg:leading-[40px]">This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company&apos;s financial health and investment potential.</p>
             </div>
             <Image src='/part-2/lr.svg' width={250} height={250} alt="frm" className="flex-shrink-0" />
           </div>
@@ -345,7 +345,7 @@ export default function page() {
             <div className='group md:h-[120px] h-[100px] md:w-[350px] w-[320px] text-center bg-white rounded-3xl  absolute   overflow-hidden  bottom-0 hover:h-[305px]  transition-height duration-500 ease-in-out shadow-xl'>
               <IoIosArrowUp className="text-center mx-auto text-[30px] group-hover:rotate-180 	transition-transform duration-500 ease-in-out" />
               <h1 className='md:text-[1.75rem] text-[1.3rem] font-[700] md:my-[10px] mb-[5px] '>Ethical and Professional<br /> Standards</h1>
-              <p className=' text-[#6A1C1A]  text-[12px] sm:text-[14px] px-2'>This module is designed to impart fundamental knowledge of the CFA Institute's Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.</p>
+              <p className=' text-[#6A1C1A]  text-[12px] sm:text-[14px] px-2'>This module is designed to impart fundamental knowledge of the CFA Institute&apos;s Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.</p>
             </div>
           </div>
           <div className='md:w-[350px] md:h-[350px] w-[320px] h-[320px]  rounded-3xl relative  bg-[#FFF4DA] m-3 flex-shrink-0  overflow-hidden border'>
@@ -369,7 +369,7 @@ export default function page() {
             <div className='group md:h-[120px] h-[100px] md:w-[350px] w-[320px] text-center bg-white rounded-3xl  absolute   overflow-hidden  bottom-0 hover:h-[285px]  transition-height duration-500 ease-in-out shadow-xl'>
               <IoIosArrowUp className="text-center mx-auto text-[30px] group-hover:rotate-180 	transition-transform duration-500 ease-in-out" />
               <h1 className='md:text-[1.75rem] text-[1.3rem] font-[700] md:my-[10px] mb-[5px]'>Financial Reporting and Analysis</h1>
-              <p className=' text-[#6A1C1A]  text-[12px] sm:text-[14px] px-2'>This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company's financial health and investment potential.</p>
+              <p className=' text-[#6A1C1A]  text-[12px] sm:text-[14px] px-2'>This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company&apos;s financial health and investment potential.</p>
             </div>
           </div>
           {/* <div className='md:w-[350px] md:h-[350px] w-[320px] h-[320px]  rounded-3xl relative  bg-[#FFF4DA] m-3 flex-shrink-0  overflow-hidden border'>
