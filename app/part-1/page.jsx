@@ -160,7 +160,7 @@ export default function page() {
           </h2>
           <p className=" text-[14px] sm:text-[14px]">
             {" "}
-            CFA Level 1 is the first level of the Chartered Financial Analyst (CFA) certification offered by the CFA Institute. It involves an examination that assesses candidates' understanding of foundational concepts in investment management. This encompasses a comprehensive exploration of quantitative analysis, fundamental concepts in economics and finance, the intricacies of financial reporting and financial markets, and the application of portfolio management and investment tools. The examination assesses candidates' proficiency in these core areas, laying the foundation for a solid understanding of investment principles and practices in the financial domain. Various modules carry different weights in the exam, and to pass CFA Level 1, a minimum score is required in each module.
+            CFA Level 1 is the first level of the Chartered Financial Analyst (CFA) certification offered by the CFA Institute. It involves an examination that assesses candidates&apos; understanding of foundational concepts in investment management. This encompasses a comprehensive exploration of quantitative analysis, fundamental concepts in economics and finance, the intricacies of financial reporting and financial markets, and the application of portfolio management and investment tools. The examination assesses candidates&apos; proficiency in these core areas, laying the foundation for a solid understanding of investment principles and practices in the financial domain. Various modules carry different weights in the exam, and to pass CFA Level 1, a minimum score is required in each module.
           </p>
         </div>
       </div>
@@ -319,7 +319,7 @@ export default function page() {
             <div className="max-w-[1000px] pr-5">
               <h2 className="md:text-[30px] lg:text-[35px] font-bold ">Ethical and Professional Standards</h2>
               <p className="text-[18px] lg:text-[20px]">
-              This module is designed to impart fundamental knowledge of the CFA Institute's Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.
+              This module is designed to impart fundamental knowledge of the CFA Institute&apos;s Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.
               </p>
             </div>
             <Image src="/part-1/desc_frm.svg" width={250} height={250} alt="frm" className="flex-shrink-0" />
@@ -348,7 +348,7 @@ export default function page() {
             <div className="max-w-[1000px] pr-5">
               <h2 className="md:text-[30px] lg:text-[35px] font-bold ">Financial Reporting and Analysis</h2>
               <p className="text-[18px] lg:text-[20px]">
-              This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company's financial health and investment potential.
+              This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company&apos;s financial health and investment potential.
               </p>
             </div>
             <Image src="/part-1/desc_qta.svg" width={250} height={250} alt="frm" className="flex-shrink-0" />
@@ -363,7 +363,7 @@ export default function page() {
               <IoIosArrowUp className="text-center mx-auto text-[30px] " />
               <h1 className="md:text-[1.75rem] text-[1.3rem] font-[700] md:my-[10px] my-[5px]">Ethical and Professional <br /> Standards</h1>
               <p className=" text-[#6A1C1A]  text-[14px] px-2">
-              This module is designed to impart fundamental knowledge of the CFA Institute's Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.
+              This module is designed to impart fundamental knowledge of the CFA Institute&apos;s Code of Ethics and Standards of Professional Conduct. It introduces the principles of ethical behavior, professional integrity, and the responsibilities of CFA charterholders. It also provides real-world scenarios to apply ethical principles in investment decision-making. Along with best practices, this module forms the foundation of trust and credibility in the financial industry.
               </p>
               <IoIosArrowDown className="text-center mx-auto text-[30px] " />
             </div>
@@ -402,7 +402,7 @@ export default function page() {
               Analysis
               </h1>
               <p className=" text-[#6A1C1A]  text-[14px] px-2">
-              This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company's financial health and investment potential.
+              This module is essential for understanding how to interpret and analyze financial statements. It covers the income statement, balance sheet, cash flow statement, and financial ratios. Candidates also learn how accounting standards and financial reporting choices affect analysis. Mastery of this module enables effective evaluation of a company&apos;s financial health and investment potential.
               </p>
               <IoIosArrowDown className="text-center mx-auto text-[30px] " />
             </div>
