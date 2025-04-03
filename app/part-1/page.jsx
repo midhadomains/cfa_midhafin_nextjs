@@ -15,30 +15,35 @@ export default function page() {
   const buttonsData = [
     {
       id: 1,
-      text: "What is the format of the FRM Part 1 exam?",
-      data: "The FRM Part 1 exam is a computer-based test consisting of 100 multiple-choice questions. Candidates have four hours to complete the exam. There is no negative marking for wrong answers. The questions are designed to test your knowledge of the foundational concepts of risk management covered in the curriculum.",
+      text: "What are the eligibility requirements for CFA Level 1?",
+      data: "To register for CFA Level 1, candidates must have a bachelor's degree, be in their final year of an undergraduate program, or have a combination of 4,000 hours of professional work experience and/or higher education acquired over a minimum of three years.",
     },
     {
       id: 2,
-      text: "What are the benefits of pursuing FRM Level 1 ?",
-      data: "FRM certification enhances career opportunities in risk management, finance, and related fields. It validates your expertise in risk analysis and can lead to higher-paying positions in areas such as risk consulting, investment management, and financial analysis.The FRM level 1 builds a strong foundation for this and equips you with risk management skills.",
+      text: "How many hours should I study for CFA Level 1?",
+      data: "The CFA Institute recommends candidates dedicate at least 300 hours of study time for CFA Level 1. However, the actual required study time varies depending on prior knowledge and experience in finance.",
     },
     {
       id: 3,
-      text: "How long does it take to prepare for FRM level 1 exam ?",
-      data: "The amount of time it takes to prepare for the Financial Risk Manager (FRM) Level 1 exam can vary depending on a number of factors, such as your prior knowledge of the subject matter, your study habits, and the amount of time you can dedicate to studying each day. Generally, it is recommended to dedicate at least 400-500 hours of study time to prepare for the exam. This could take anywhere from a few months to a year or more, depending on your individual circumstances. It’s important to create a study plan and stick to it in order to ensure you are adequately prepared for the exam.",
+      text: "What is the exam format for CFA Level 1?",
+      data: "CFA Level 1 consists of 180 multiple-choice questions, divided into two sessions of 2 hours and 15 minutes each. Each question has three answer choices, and the exam is conducted in a computer-based format.",
     },
     {
       id: 4,
-      text: "Does FRM level 1 need a strong mathematical background ?",
-      data: "While a mathematics background is not a strict requirement for FRM Level 1, having a solid understanding of basic mathematical concepts can be beneficial. The FRM exam, particularly in the quantitative analysis section, involves topics such as probability, statistics, and financial mathematics. Candidates with a mathematical background may find it easier to grasp these concepts. However, GARP (Global Association of Risk Professionals), the organization that administers the FRM exams, designs the test to be accessible to individuals from various educational backgrounds. The focus is on practical knowledge and skills in financial risk management. Many candidates with diverse educational backgrounds, including finance, economics, and business, successfully pass the FRM Level 1 exam through diligent preparation and study of the recommended materials.",
+      text: "How often is the CFA Level 1 exam conducted?",
+      data: "The CFA Level 1 exam is offered four times a year: in February, May, August, and November. Candidates can select an available exam window that best fits their schedule.",
     },
     {
       id: 5,
-      text: "How long is the FRM Part 1 valid for after passing it ?",
-      data: "The FRM Part 1 exam is valid for a period of 4 years. Candidates must pass the FRM Part 2 exam before this period is over to earn FRM designation, otherwise, they will have to reappear for the FRM Part 1 exam.",
+      text: "Can I take CFA Level 1 without a finance background?",
+      data: "Yes, candidates from any educational background can register for the CFA Level 1 exam. While prior knowledge in finance is helpful, the CFA curriculum is designed to teach fundamental concepts from the ground up.",
     },
-  ];
+    {
+      id: 6,
+      text: "How do I register for the CFA Level 1 exam?",
+      data: "Candidates can register for the CFA Level 1 exam through the CFA Institute’s official website. They must create an account, complete the registration process, pay the applicable fees, and schedule their exam within the available testing windows.",
+    },
+];
   const course = [
     {
       _id: "65dee4781c34e4d5d691626d",
