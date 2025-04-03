@@ -16,35 +16,40 @@ export default function page() {
   const buttonsData = [
     {
       id: 1,
-      text: "How is FRM Part 2 different from Part 1?",
-      data: "While Part 1 leans towards a foundational and numerical focus, Part 2 takes a turn by placing a greater emphasis on theoretical aspects. What's intriguing is that, despite the theoretical nature, these aspects in Part 2 are more industry-oriented and practical, offering a unique blend that challenges candidates to apply their theoretical understanding in real-world contexts.Part 2 requires candidates to integrate knowledge from different subjects and apply them in a holistic manner. For instance, questions may necessitate blending concepts from market, credit, and operational risk to provide comprehensive solutions.",
+      text: "How is CFA Level 2 different from Level 1?",
+      data: "CFA Level 2 focuses more on the application and analysis of financial concepts, whereas Level 1 is primarily about basic knowledge and comprehension. Level 2 introduces item set questions (vignettes), requiring candidates to interpret complex financial scenarios and apply concepts in a more detailed manner.",
     },
     {
       id: 2,
-      text: "What study materials are recommended for preparing for FRM Part 2?",
-      data: "MidhaFin's study materials offer a comprehensive and detailed preparation experience tailored to meet the requirements of FRM Part 2. Crafted in alignment with the official GARP curriculum, our material provides a robust foundation for exam success. It highly recommended to use our material as the primary source of preparation.Our learning materials include lecture videos, complete study materials, revision videos, a doubt-solving forum, an interactive student group, a customized study plan, question bank PDFs, past sample paper questions, five mock tests, module-wise tests, and question-solving videos. This inclusive package ensures a thorough understanding and effective preparation for the exam.",
+      text: "What is the exam format for CFA Level 2?",
+      data: "CFA Level 2 consists of 88 multiple-choice questions, structured as item sets (vignettes). The exam is divided into two sessions, each lasting 2 hours and 12 minutes, and is conducted in a computer-based format.",
     },
     {
       id: 3,
-      text: "How long does it take to prepare for FRM Part 2?",
-      data: "The suggested guideline by the MidhaFin team is 600 hours minimum for FRM Part 2 preparation, and candidates may need to adjust their study timelines based on their prior knowledge, learning pace, and personal commitments. It is advisable to start preparation well in advance to allow for a gradual and thorough understanding of the material.",
+      text: "How much time should I dedicate to CFA Level 2 preparation?",
+      data: "The CFA Institute recommends approximately 300 to 350 hours of study for CFA Level 2. Many candidates find Level 2 more challenging than Level 1, so additional study time may be required, especially for mastering item sets and complex financial concepts.",
     },
     {
       id: 4,
-      text: "How often is the FRM Part 2 exam offered?",
-      data: "As of 2024, The FRM Part 2 exam is offered thrice a year. Specifically, candidates have the opportunity to take the exam during two one-week exam windows, typically in May and November. And there is a single exam date in August.This schedule allows candidates to plan their preparation and choose a convenient timeframe to sit for the exam. It's important for candidates to be aware of the specific exam dates for each year and plan their study schedule accordingly to ensure optimal readiness for the FRM Part 2 examination.",
+      text: "What is the difficulty level of CFA Level 2 compared to Level 1?",
+      data: "CFA Level 2 is widely considered more difficult than Level 1 due to its in-depth focus on financial analysis, valuation, and investment tools. The item set format requires candidates to analyze case-based scenarios and apply multiple concepts to a single vignette.",
     },
     {
       id: 5,
-      text: "What is the customized study plan by MidhaFin ?",
-      data: "The customized study plan is a personalized plan that tailors the basic study plan to meet the specific needs of each candidate. This structured plan includes a week-by-week breakdown, module-wise allocation, daily study targets, and utilization of various resources such as study materials, lecture videos, and question banks. The plan emphasizes regular practice, review, and the importance of mock exams to simulate real test conditions. It also provides support through doubt-solving forums and encourages participation in an interactive student group for collaborative learning.The customization is achieved through a dedicated Customized Study Plan (CSP) meeting with our instructor. As soon as candidates enroll in our courses, this meeting ensures that the study plan aligns with their individual learning styles, strengths, and areas that require focused attention. This personalized approach aims to optimize candidates' preparation for the FRM Part 2 exam, enhancing their overall learning experience and chances of success.",
+      text: "What is the passing rate for CFA Level 2?",
+      data: "The CFA Level 2 passing rate varies but typically ranges between 40% and 50%. The exam is more challenging than Level 1, with a focus on higher-order thinking and applied financial concepts.",
     },
     {
       id: 6,
-      text: "How often is the FRM Part 2 exam offered?",
-      data: "As of 2024, The FRM Part 2 exam is offered thrice a year. Specifically, candidates have the opportunity to take the exam during two one-week exam windows, typically in May and November. And there is a single exam date in August.This schedule allows candidates to plan their preparation and choose a convenient timeframe to sit for the exam. Its important for candidates to be aware of the specific exam dates for each year and plan their study schedule accordingly to ensure optimal readiness for the FRM Part 2 examination.",
+      text: "Are there any specific study strategies for CFA Level 2?",
+      data: "Effective study strategies for CFA Level 2 include focusing on practice questions and item sets, understanding financial statement analysis, reviewing ethics in-depth, and using spaced repetition techniques to retain complex concepts. Practicing with past exams and mock tests is also highly recommended.",
     },
-  ];
+    {
+      id: 7,
+      text: "Can I appear for CFA Level 2 immediately after passing Level 1?",
+      data: "Yes, candidates can register for CFA Level 2 immediately after passing Level 1. However, the CFA Institute recommends careful planning, as Level 2 requires more in-depth study and analytical skills.",
+    },
+];
 
   const course = [
     {

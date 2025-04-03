@@ -16,35 +16,35 @@ export default function page() {
   const buttonsData = [
     {
       id: 1,
-      text: "How is FRM Part 2 different from Part 1?",
-      data: "While Part 1 leans towards a foundational and numerical focus, Part 2 takes a turn by placing a greater emphasis on theoretical aspects. What's intriguing is that, despite the theoretical nature, these aspects in Part 2 are more industry-oriented and practical, offering a unique blend that challenges candidates to apply their theoretical understanding in real-world contexts.Part 2 requires candidates to integrate knowledge from different subjects and apply them in a holistic manner. For instance, questions may necessitate blending concepts from market, credit, and operational risk to provide comprehensive solutions.",
+      text: "What is the difference between CFA Level 2 and Level 3?",
+      data: "CFA Level 2 focuses on financial analysis, valuation, and investment tools, using item sets (vignettes). CFA Level 3 shifts towards portfolio management and wealth planning, emphasizing the application of investment principles in real-world scenarios. Level 3 also introduces constructed response (essay-type) questions.",
     },
     {
       id: 2,
-      text: "What study materials are recommended for preparing for FRM Part 2?",
-      data: "MidhaFin's study materials offer a comprehensive and detailed preparation experience tailored to meet the requirements of FRM Part 2. Crafted in alignment with the official GARP curriculum, our material provides a robust foundation for exam success. It highly recommended to use our material as the primary source of preparation.Our learning materials include lecture videos, complete study materials, revision videos, a doubt-solving forum, an interactive student group, a customized study plan, question bank PDFs, past sample paper questions, five mock tests, module-wise tests, and question-solving videos. This inclusive package ensures a thorough understanding and effective preparation for the exam.",
+      text: "What is the exam format for CFA Level 3?",
+      data: "The CFA Level 3 exam consists of two sections: a morning session with constructed response (essay-type) questions and an afternoon session with item set (vignette-based multiple-choice) questions. The exam is computer-based and divided into two sessions, each lasting 2 hours and 12 minutes.",
     },
     {
       id: 3,
-      text: "How long does it take to prepare for FRM Part 2?",
-      data: "The suggested guideline by the MidhaFin team is 600 hours minimum for FRM Part 2 preparation, and candidates may need to adjust their study timelines based on their prior knowledge, learning pace, and personal commitments. It is advisable to start preparation well in advance to allow for a gradual and thorough understanding of the material.",
+      text: "What is the passing rate for CFA Level 3?",
+      data: "The CFA Level 3 passing rate varies but typically ranges between 40% and 55%. It is generally higher than Level 2, as candidates who reach this stage are highly committed and well-prepared.",
     },
     {
       id: 4,
-      text: "How often is the FRM Part 2 exam offered?",
-      data: "As of 2024, The FRM Part 2 exam is offered thrice a year. Specifically, candidates have the opportunity to take the exam during two one-week exam windows, typically in May and November. And there is a single exam date in August.This schedule allows candidates to plan their preparation and choose a convenient timeframe to sit for the exam. It's important for candidates to be aware of the specific exam dates for each year and plan their study schedule accordingly to ensure optimal readiness for the FRM Part 2 examination.",
+      text: "How is the CFA Level 3 exam graded?",
+      data: "CFA Level 3 is graded based on a combination of the constructed response (essay) section and item set questions. The essays are manually graded by CFA Institute graders, while the multiple-choice sections are machine-graded. Ethics and portfolio management carry significant weight in scoring.",
     },
     {
       id: 5,
-      text: "What is the customized study plan by MidhaFin ?",
-      data: "The customized study plan is a personalized plan that tailors the basic study plan to meet the specific needs of each candidate. This structured plan includes a week-by-week breakdown, module-wise allocation, daily study targets, and utilization of various resources such as study materials, lecture videos, and question banks. The plan emphasizes regular practice, review, and the importance of mock exams to simulate real test conditions. It also provides support through doubt-solving forums and encourages participation in an interactive student group for collaborative learning.The customization is achieved through a dedicated Customized Study Plan (CSP) meeting with our instructor. As soon as candidates enroll in our courses, this meeting ensures that the study plan aligns with their individual learning styles, strengths, and areas that require focused attention. This personalized approach aims to optimize candidates' preparation for the FRM Part 2 exam, enhancing their overall learning experience and chances of success.",
+      text: "How can I improve my chances of passing CFA Level 3?",
+      data: "To improve your chances of passing CFA Level 3, focus on practicing essay questions, mastering portfolio management concepts, and reviewing Ethics thoroughly. Time management in the exam is crucial, especially for the essay section. Mock exams and past CFA essay questions are highly beneficial.",
     },
     {
       id: 6,
-      text: "How often is the FRM Part 2 exam offered?",
-      data: "As of 2024, The FRM Part 2 exam is offered thrice a year. Specifically, candidates have the opportunity to take the exam during two one-week exam windows, typically in May and November. And there is a single exam date in August.This schedule allows candidates to plan their preparation and choose a convenient timeframe to sit for the exam. Its important for candidates to be aware of the specific exam dates for each year and plan their study schedule accordingly to ensure optimal readiness for the FRM Part 2 examination.",
+      text: "What happens after passing CFA Level 3?",
+      data: "After passing CFA Level 3, candidates must meet the CFA Institute's work experience requirements (4,000 hours of relevant experience over a minimum of 36 months) and submit a membership application. Once approved, they earn the CFA charter and can use the CFA designation professionally.",
     },
-  ];
+];
 
   const course = [
     {

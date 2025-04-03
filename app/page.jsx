@@ -83,30 +83,45 @@ export default function Home() {
   const buttonsData = [
     {
       id: 1,
-      text: "What is FRM designation?",
-      data: "Financial Risk Manager (FRM®) is a certificate offered by GARP (Global Association of Risk Professionals).It has become quite popular over the years and is being widely considered to be the global standard for financial risk management. It is recognized across major markets in the Americas, Europe, Asia, Africa as well as Oceania.",
+      text: "What is the CFA designation, and why is it important?",
+      data: "The Chartered Financial Analyst (CFA) designation is a globally recognized professional certification offered by the CFA Institute. It signifies expertise in investment management, financial analysis, and ethical standards. Earning a CFA charter enhances career prospects in finance, investment banking, asset management, and risk management.",
     },
     {
       id: 2,
-      text: "What is the Salary offered after FRM designation?",
-      data: "The salary offered after obtaining an FRM (Financial Risk Manager) designation can vary significantly based on factors such as location, industry, experience, Skills, and the specific job role.On average, professionals with an FRM certification tend to earn competitive salaries, often well above the industry standard. In the United States, for example, entry-level FRM holders might earn around $70,000 to $100,000 per year.",
+      text: "What are the eligibility requirements for enrolling in the CFA program?",
+      data: "To enroll in the CFA program, candidates must have a bachelor's degree or be in the final year of their degree program. Alternatively, candidates with at least 4,000 hours of relevant professional work experience (or a combination of education and work experience) may also be eligible.",
     },
     {
       id: 3,
-      text: "What is the shortest time taken to attain FRM designation?",
-      data: "The shortest time to attain the Financial Risk Manager (FRM) designation typically depends on individual dedication, prior knowledge, and study habits. FRM certification is a two-part exam, and the quickest route involves passing both parts in a single exam cycle. Many candidates take Part I in May and Part II in November of the same year, which allows them to achieve FRM certification in about six months. However, this timeline assumes intensive preparation, often involving several months of focused study before each exam. It&apos;s essential to note that the pass rates for FRM exams can be challenging, making rigorous preparation a key factor in successfully achieving this designation in the shortest possible time.",
+      text: "How many levels are there in the CFA program, and how do they differ?",
+      data: "The CFA program consists of three levels: Level I focuses on basic knowledge and comprehension of investment tools and ethical considerations; Level II emphasizes application and analysis of financial concepts; Level III is about portfolio management and wealth planning, requiring candidates to synthesize concepts and apply them in real-world scenarios.",
     },
     {
       id: 4,
-      text: "Which is better- FRM vs CFA?",
-      data: "The choice between FRM (Financial Risk Manager) and CFA (Chartered Financial Analyst) depends on career goals. FRM is ideal for those aspiring to specialize in risk management, focusing on areas like market, credit, and operational risk. It&apos;s well-suited for careers in risk analysis, compliance, and investment risk. On the other hand, CFA is broader, covering a wide range of finance topics like investment analysis, portfolio management, and ethics. It&apos;s a better fit for those seeking careers in asset management, investment banking, or financial analysis. Ultimately, the choice hinges on whether one desires a specialized career in risk management (FRM) or a broader financial career (CFA).",
+      text: "How long does it take to complete the CFA program?",
+      data: "On average, candidates take about 3 to 4 years to complete all three levels of the CFA exam. The duration depends on study time, preparation, and successful passing of each level on the first attempt.",
     },
     {
       id: 5,
-      text: "Which companies do hire FRM charterholders?",
-      data: "FRM charterholders are highly sought after by a diverse range of companies, particularly in the financial sector. Investment banks like J.P. Morgan, Goldman Sachs, and Morgan Stanley often hire FRM professionals for roles in risk management, trading, and investment analysis. Asset management firms such as BlackRock and Vanguard value FRM expertise for managing funds and assessing risks. Insurance companies like AIG and reinsurance firms like Swiss Re rely on FRM charterholders for risk assessment. Additionally, consulting firms like Deloitte and KPMG hire FRM professionals to provide risk advisory services to various industries. Corporations with significant exposure to financial risks also hire FRM experts in treasury and finance departments.",
+      text: "What is the exam structure and format for each CFA level?",
+      data: "CFA Level I consists of multiple-choice questions, Level II includes item set questions (vignettes with multiple-choice questions), and Level III features a combination of constructed response (essay-type) and item set questions. Each exam is computer-based and offered multiple times a year.",
     },
-  ];
+    {
+      id: 6,
+      text: "How much does it cost to register for the CFA exams?",
+      data: "CFA exam costs vary based on the registration time. The one-time enrollment fee is around $350, while exam registration fees range from $900 to $1,200 per level, depending on early, standard, or late registration.",
+    },
+    {
+      id: 7,
+      text: "What career opportunities are available after earning the CFA charter?",
+      data: "CFA charterholders can pursue careers in investment banking, asset management, hedge funds, financial analysis, portfolio management, and risk management. Many also work in roles like financial consulting, private equity, and corporate finance.",
+    },
+    {
+      id: 8,
+      text: "How do I maintain my CFA charter once I pass all three levels?",
+      data: "To maintain CFA charterholder status, individuals must become a member of the CFA Institute, adhere to the CFA Code of Ethics and Standards of Professional Conduct, and pay annual membership dues. Continuing professional development is encouraged but not mandatory.",
+    },
+];
 
   return (
     <div>
