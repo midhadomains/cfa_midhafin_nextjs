@@ -14,42 +14,50 @@ export const metadata = {
 
 export default function page() {
   const buttonsData = [
+    
     {
       id: 1,
       text: "How is CFA Level 2 different from Level 1?",
-      data: "CFA Level 2 focuses more on the application and analysis of financial concepts, whereas Level 1 is primarily about basic knowledge and comprehension. Level 2 introduces item set questions (vignettes), requiring candidates to interpret complex financial scenarios and apply concepts in a more detailed manner.",
+      data: "CFA Level 2 focuses on application-based learning,\nwhereas Level 1 is more about memorizing concepts.\nIt includes case study-based item sets rather than simple multiple-choice questions.",
     },
     {
       id: 2,
       text: "What is the exam format for CFA Level 2?",
-      data: "CFA Level 2 consists of 88 multiple-choice questions, structured as item sets (vignettes). The exam is divided into two sessions, each lasting 2 hours and 12 minutes, and is conducted in a computer-based format.",
+      data: "CFA Level 2 consists of 88 multiple-choice questions, structured as item sets (vignettes).\nThe exam is divided into two sessions, each lasting 2 hours and 12 minutes,\nand is conducted in a computer-based format.",
     },
     {
       id: 3,
       text: "How much time should I dedicate to CFA Level 2 preparation?",
-      data: "The CFA Institute recommends approximately 300 to 350 hours of study for CFA Level 2. Many candidates find Level 2 more challenging than Level 1, so additional study time may be required, especially for mastering item sets and complex financial concepts.",
+      data: "The CFA Institute recommends 300-350 hours of study for CFA Level 2,\nbut many candidates spend more time due to its complexity.",
     },
     {
       id: 4,
-      text: "What is the difficulty level of CFA Level 2 compared to Level 1?",
-      data: "CFA Level 2 is widely considered more difficult than Level 1 due to its in-depth focus on financial analysis, valuation, and investment tools. The item set format requires candidates to analyze case-based scenarios and apply multiple concepts to a single vignette.",
+      text: "What is the passing rate for CFA Level 2?",
+      data: "The passing rate for CFA Level 2 is typically 40-45%.",
     },
     {
       id: 5,
-      text: "What is the passing rate for CFA Level 2?",
-      data: "The CFA Level 2 passing rate varies but typically ranges between 40% and 50%. The exam is more challenging than Level 1, with a focus on higher-order thinking and applied financial concepts.",
+      text: "Are there any specific study strategies for CFA Level 2?",
+      data: "Yes, candidates should:\n- Focus on practicing case study-based item sets.\n- Strengthen financial analysis and valuation skills.\n- Revise ethics, as it carries significant weight in the exam.",
     },
     {
       id: 6,
-      text: "Are there any specific study strategies for CFA Level 2?",
-      data: "Effective study strategies for CFA Level 2 include focusing on practice questions and item sets, understanding financial statement analysis, reviewing ethics in-depth, and using spaced repetition techniques to retain complex concepts. Practicing with past exams and mock tests is also highly recommended.",
+      text: "Can I appear for CFA Level 2 immediately after passing Level 1?",
+      data: "Yes, but you must schedule the exam for a later testing window.",
     },
     {
       id: 7,
-      text: "Can I appear for CFA Level 2 immediately after passing Level 1?",
-      data: "Yes, candidates can register for CFA Level 2 immediately after passing Level 1. However, the CFA Institute recommends careful planning, as Level 2 requires more in-depth study and analytical skills.",
+      text: "How many times can I take CFA Level 2?",
+      data: "There is no limit to the number of attempts,\nbut candidates must wait for the next exam window to retake the test.",
     },
-];
+    {
+      id: 8,
+      text: "How difficult is CFA Level 2 compared to Level 1?",
+      data: "CFA Level 2 is significantly harder than Level 1,\nas it requires deeper understanding and application of concepts rather than memorization.",
+    },
+
+  ];
+  
 
   const course = [
     {

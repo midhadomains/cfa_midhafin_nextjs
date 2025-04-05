@@ -43,6 +43,29 @@ export default function page() {
       text: "How do I register for the CFA Level 1 exam?",
       data: "Candidates can register for the CFA Level 1 exam through the CFA Institute’s official website. They must create an account, complete the registration process, pay the applicable fees, and schedule their exam within the available testing windows.",
     },
+    {
+      id: 7,
+      text: "What is CFA Level 1, and who should take it?",
+      data: "CFA Level 1 is the first step in the CFA program, designed for those interested in investment banking, asset management, and financial analysis.\nIt is ideal for finance students, professionals, and career changers.",
+    },
+
+    {
+      id: 9,
+      text: "What is the passing rate for CFA Level 1?",
+      data: "The passing rate for CFA Level 1 fluctuates but is typically around 35–40%.",
+    },
+    {
+      id: 10,
+      text: "How often is the CFA Level 1 exam conducted?",
+      data: "CFA Level 1 is offered four times a year in February, May, August, and November.",
+    },
+
+    {
+      id: 12,
+      text: "How do I register for the CFA Level 1 exam?",
+      data: "Registration is done online through the CFA Institute website.\nCandidates need to create an account, pay the fees, and schedule their exam.",
+    },
+
 ];
   const course = [
     {
