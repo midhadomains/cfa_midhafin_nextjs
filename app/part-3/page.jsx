@@ -16,33 +16,38 @@ export default function page() {
   const buttonsData = [
     {
       id: 1,
-      text: "What is the difference between CFA Level 2 and Level 3?",
-      data: "CFA Level 2 focuses on financial analysis, valuation, and investment tools, using item sets (vignettes). CFA Level 3 shifts towards portfolio management and wealth planning, emphasizing the application of investment principles in real-world scenarios. Level 3 also introduces constructed response (essay-type) questions.",
+      text: "What makes CFA Level 3 different from Level 2?",
+      data: "CFA Level 3 introduces essay-based questions (constructed responses)\nin addition to case-study-based item sets.\nIt focuses more on portfolio management and wealth planning.",
     },
     {
       id: 2,
       text: "What is the exam format for CFA Level 3?",
-      data: "The CFA Level 3 exam consists of two sections: a morning session with constructed response (essay-type) questions and an afternoon session with item set (vignette-based multiple-choice) questions. The exam is computer-based and divided into two sessions, each lasting 2 hours and 12 minutes.",
+      data: "- Morning Session: Constructed response (essay-style) questions.\n- Afternoon Session: Item set (case study) questions.",
     },
     {
       id: 3,
-      text: "What is the passing rate for CFA Level 3?",
-      data: "The CFA Level 3 passing rate varies but typically ranges between 40% and 55%. It is generally higher than Level 2, as candidates who reach this stage are highly committed and well-prepared.",
+      text: "How should I prepare for the essay-type questions?",
+      data: "- Practice writing concise, structured answers.\n- Use bullet points where necessary.\n- Review past CFA essay questions available on the CFA Institute website.",
     },
     {
       id: 4,
-      text: "How is the CFA Level 3 exam graded?",
-      data: "CFA Level 3 is graded based on a combination of the constructed response (essay) section and item set questions. The essays are manually graded by CFA Institute graders, while the multiple-choice sections are machine-graded. Ethics and portfolio management carry significant weight in scoring.",
+      text: "What is the passing rate for CFA Level 3?",
+      data: "The passing rate is typically 45-55%,\nmaking it the highest among all levels.",
     },
     {
       id: 5,
-      text: "How can I improve my chances of passing CFA Level 3?",
-      data: "To improve your chances of passing CFA Level 3, focus on practicing essay questions, mastering portfolio management concepts, and reviewing Ethics thoroughly. Time management in the exam is crucial, especially for the essay section. Mock exams and past CFA essay questions are highly beneficial.",
+      text: "How is CFA Level 3 graded?",
+      data: "- Morning session: Graded manually by CFA Institute graders.\n- Afternoon session: Computer-graded multiple-choice questions.",
     },
     {
       id: 6,
       text: "What happens after passing CFA Level 3?",
-      data: "After passing CFA Level 3, candidates must meet the CFA Institute's work experience requirements (4,000 hours of relevant experience over a minimum of 36 months) and submit a membership application. Once approved, they earn the CFA charter and can use the CFA designation professionally.",
+      data: "Candidates must apply for CFA Institute membership and meet the work experience requirement (4,000 hours over 3 years) to become a CFA charterholder.",
+    },
+    {
+      id: 7,
+      text: "What’s the best way to ensure success in CFA Level 3?",
+      data: "- Focus heavily on portfolio management topics.\n- Master the essay-writing format.\n- Revise CFA Ethics and Standards of Professional Conduct thoroughly.",
     },
 ];
 

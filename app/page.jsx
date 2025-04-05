@@ -84,44 +84,45 @@ export default function Home() {
     {
       id: 1,
       text: "What is the CFA designation, and why is it important?",
-      data: "The Chartered Financial Analyst (CFA) designation is a globally recognized professional certification offered by the CFA Institute. It signifies expertise in investment management, financial analysis, and ethical standards. Earning a CFA charter enhances career prospects in finance, investment banking, asset management, and risk management.",
+      data: "The Chartered Financial Analyst (CFA) designation is a globally recognized certification in investment management and financial analysis. Awarded by the CFA Institute, it signifies expertise in financial markets, portfolio management, and ethical standards. It is widely respected in the finance industry and can open doors to high-level careers.",
     },
     {
       id: 2,
       text: "What are the eligibility requirements for enrolling in the CFA program?",
-      data: "To enroll in the CFA program, candidates must have a bachelor's degree or be in the final year of their degree program. Alternatively, candidates with at least 4,000 hours of relevant professional work experience (or a combination of education and work experience) may also be eligible.",
+      data: "Candidates must meet one of the following criteria:\n- Hold a bachelor’s degree or be in the final year of an undergraduate program.\n- Have 4,000 hours of professional work experience(or a mix of education and work experience).\n- Possess a valid international travel passport for identification.",
     },
     {
       id: 3,
       text: "How many levels are there in the CFA program, and how do they differ?",
-      data: "The CFA program consists of three levels: Level I focuses on basic knowledge and comprehension of investment tools and ethical considerations; Level II emphasizes application and analysis of financial concepts; Level III is about portfolio management and wealth planning, requiring candidates to synthesize concepts and apply them in real-world scenarios.",
+      data: "The CFA program consists of three levels:\n- Level 1: Covers fundamental investment knowledge, ethical and professional standards, and financial tools.\n- Level 2: Focuses on asset valuation and financial analysis, with more application-based learning.\n- Level 3: Emphasizes portfolio management, wealth planning, and real-world investment decision-making.",
     },
     {
       id: 4,
       text: "How long does it take to complete the CFA program?",
-      data: "On average, candidates take about 3 to 4 years to complete all three levels of the CFA exam. The duration depends on study time, preparation, and successful passing of each level on the first attempt.",
+      data: "The CFA program typically takes 3 to 4 years to complete. The CFA Institute recommends about 300+ study hours per level, and candidates need to pass each level sequentially before moving to the next.",
     },
     {
       id: 5,
       text: "What is the exam structure and format for each CFA level?",
-      data: "CFA Level I consists of multiple-choice questions, Level II includes item set questions (vignettes with multiple-choice questions), and Level III features a combination of constructed response (essay-type) and item set questions. Each exam is computer-based and offered multiple times a year.",
+      data: "The CFA exams are computer-based and structured as follows:\n- Level 1: 180 multiple-choice questions split into two sessions (2 hours 15 minutes each).\n- Level 2: 22 item-set (case study) questions, each containing multiple-choice questions.\n- Level 3: A mix of constructed response (essay-type) questions and item-set questions.",
     },
     {
       id: 6,
       text: "How much does it cost to register for the CFA exams?",
-      data: "CFA exam costs vary based on the registration time. The one-time enrollment fee is around $350, while exam registration fees range from $900 to $1,200 per level, depending on early, standard, or late registration.",
+      data: "The CFA exam fees vary based on registration timing:\n-Enrollment Fee (one-time): $350\n-Early Registration Fee:$940\n-Standard Registration Fee: $1,250\nAdditional costs include study materials, prep courses, and possible retake fees.",
     },
     {
       id: 7,
       text: "What career opportunities are available after earning the CFA charter?",
-      data: "CFA charterholders can pursue careers in investment banking, asset management, hedge funds, financial analysis, portfolio management, and risk management. Many also work in roles like financial consulting, private equity, and corporate finance.",
+      data: "CFA charterholders can work in various roles, such as:\n- Investment Banking\n- Asset & Wealth Management\n- Portfolio Management\n- Equity Research\n- Risk Management\n- Financial Advisory Services",
     },
     {
       id: 8,
       text: "How do I maintain my CFA charter once I pass all three levels?",
-      data: "To maintain CFA charterholder status, individuals must become a member of the CFA Institute, adhere to the CFA Code of Ethics and Standards of Professional Conduct, and pay annual membership dues. Continuing professional development is encouraged but not mandatory.",
+      data: "To maintain CFA charterholder status, candidates must:\n-Adhere to CFA Institute’s Code of Ethics and Professional Conduct.\n-Engage in Continuing Professional Development (CPD) activities.\n-Pay an annual CFA membership fee to stay active.",
     },
-];
+  ];
+
 
   return (
     <div>
